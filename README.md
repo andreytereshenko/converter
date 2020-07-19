@@ -11,11 +11,10 @@
  - Архитектура должна предусматривать лёгкую смену провайдера рейтов.
 
  #В прием задачи входит: Ссылка в публичный репозиторий для ревью написанного кода.
-     
- #Данный проект написан на PHP c использованием принципов OOP и архитектуры MVC (Model-View-Controller).
 
 # Использовалось:
-1. PHP version 7.3
-2. JQuery version 3.5.1
-3. Bootstrap version 4.5.0
-4. Composer version 1.10.5
+1. Данный проект написан на PHP c использованием принципов OOP и архитектуры MVC (Model-View-Controller).
+2. PHP version 7.3
+3. JQuery version 3.5.1
+4. Bootstrap version 4.5.0
+5. Composer version 1.10.5
