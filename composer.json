@@ -1,0 +1,21 @@
+{
+    "name": "andrey/converter",
+    "description": "OOP",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "andreytereshenko",
+            "email": "andre.tereshenko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Http\\": "app/Http/"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "4.5.0",
+        "components/jquery": "^3.5"
+    }
+}
